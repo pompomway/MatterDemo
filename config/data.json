@@ -1,0 +1,102 @@
+[
+  {
+    "sid": "UhTUvXPFIqy",
+    "label": "Matterport Tag",
+    "description": "[test](https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushu/das1.html)",
+    "parsedDescription": [
+      {
+        "type": "tag.chunk.link",
+        "link": {
+          "label": "test",
+          "type": "tag.link.ext",
+          "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushu/das1.html"
+        }
+      }
+    ],
+    "mediaSrc": "https://www.youtube-nocookie.com/embed/DVr97vBgFRM",
+    "mediaType": "mattertag.media.video",
+    "media": {
+      "type": "mattertag.media.video",
+      "src": "https://www.youtube-nocookie.com/embed/DVr97vBgFRM"
+    },
+    "anchorPosition": {
+      "x": 10.606755828603346,
+      "y": 0.4169852017647332,
+      "z": -0.1475225042503392
+    },
+    "anchorNormal": {
+      "x": -0.000987118682937507,
+      "y": 0.9961667093634765,
+      "z": -0.08746949612664329
+    },
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "enabled": true,
+    "floorId": 0,
+    "floorIndex": 0,
+    "floorInfo": {
+      "id": "0",
+      "sequence": 0
+    },
+    "stemVector": {
+      "x": -0.0007896949463500057,
+      "y": 0.7969333674907813,
+      "z": -0.06997559690131464
+    },
+    "stemHeight": 0.8,
+    "stemVisible": true,
+    "iconSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/40px-How_to_use_icon.svg.png",
+    "opacity": 1
+  },
+  {
+    "sid": "Uqc5kkGKOxN",
+    "label": "Matterport Tag",
+    "description": "  ",
+    "parsedDescription": [
+      {
+        "type": "tag.chunk.text",
+        "text": "  "
+      }
+    ],
+    "mediaSrc": "https://www.packstyle.jp/sysimg/product/00619315-01.jpg",
+    "mediaType": "mattertag.media.photo",
+    "media": {
+      "type": "mattertag.media.photo",
+      "src": "https://www.packstyle.jp/sysimg/product/00619315-01.jpg"
+    },
+    "anchorPosition": {
+      "x": 10.337768253999819,
+      "y": 0.4204489114012605,
+      "z": -0.10503963815723827
+    },
+    "anchorNormal": {
+      "x": -0.0009871186829375066,
+      "y": 0.9961667093634765,
+      "z": -0.08746949612664329
+    },
+    "color": {
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    "enabled": true,
+    "floorId": 0,
+    "floorIndex": 0,
+    "floorInfo": {
+      "id": "0",
+      "sequence": 0
+    },
+    "stemVector": {
+      "x": -0.0006909830780562544,
+      "y": 0.6973166965544334,
+      "z": -0.06122864728865029
+    },
+    "stemHeight": 0.6999999999999998,
+    "stemVisible": true,
+    "iconSrc": "",
+    "opacity": 1
+  }
+]
